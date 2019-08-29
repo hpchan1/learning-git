@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello world 2 xadasad
+=======
+hello world 2kkk eeww
+>>>>>>> y
